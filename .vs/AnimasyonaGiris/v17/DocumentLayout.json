@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4DF58-8413-422F-9355-17BE4A88317D}|AnimasyonaGiris.csproj|C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\yemeksiparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE4DF58-8413-422F-9355-17BE4A88317D}|AnimasyonaGiris.csproj|solutionrelative:yemeksiparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4DF58-8413-422F-9355-17BE4A88317D}|AnimasyonaGiris.csproj|c:\\users\\kilii\\onedrive\\masa\u00FCst\u00FC\\animasyonagiris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4DF58-8413-422F-9355-17BE4A88317D}|AnimasyonaGiris.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4DF58-8413-422F-9355-17BE4A88317D}|AnimasyonaGiris.csproj|C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\kontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE4DF58-8413-422F-9355-17BE4A88317D}|AnimasyonaGiris.csproj|solutionrelative:kontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4DF58-8413-422F-9355-17BE4A88317D}|AnimasyonaGiris.csproj|C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\animasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE4DF58-8413-422F-9355-17BE4A88317D}|AnimasyonaGiris.csproj|solutionrelative:animasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4DF58-8413-422F-9355-17BE4A88317D}|AnimasyonaGiris.csproj|C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\kontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE4DF58-8413-422F-9355-17BE4A88317D}|AnimasyonaGiris.csproj|solutionrelative:kontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4DF58-8413-422F-9355-17BE4A88317D}|AnimasyonaGiris.csproj|C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\kontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE4DF58-8413-422F-9355-17BE4A88317D}|AnimasyonaGiris.csproj|solutionrelative:kontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4DF58-8413-422F-9355-17BE4A88317D}|AnimasyonaGiris.csproj|C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\yemeksiparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4DF58-8413-422F-9355-17BE4A88317D}|AnimasyonaGiris.csproj|solutionrelative:yemeksiparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:08:41.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animasyon.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\Animasyon.cs",
+              "RelativeDocumentMoniker": "Animasyon.cs",
+              "ToolTip": "C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\Animasyon.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Animasyon.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:08:36.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kontrol2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\Kontrol2.cs",
+              "RelativeDocumentMoniker": "Kontrol2.cs",
+              "ToolTip": "C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\Kontrol2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kontrol2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:39:21.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kontrol1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\Kontrol1.cs",
+              "RelativeDocumentMoniker": "Kontrol1.cs",
+              "ToolTip": "C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\Kontrol1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kontrol1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:20:40.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kontrol3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\Kontrol3.cs",
+              "RelativeDocumentMoniker": "Kontrol3.cs",
+              "ToolTip": "C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\Kontrol3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kontrol3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:15:00.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YemekSiparis.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\YemekSiparis.cs",
+              "RelativeDocumentMoniker": "YemekSiparis.cs",
+              "ToolTip": "C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\YemekSiparis.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YemekSiparis.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:31:48.135Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YemekSiparis.cs",
+              "DocumentMoniker": "C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\YemekSiparis.cs",
+              "RelativeDocumentMoniker": "YemekSiparis.cs",
+              "ToolTip": "C:\\Users\\kilii\\OneDrive\\Masa\u00FCst\u00FC\\AnimasyonaGiris\\YemekSiparis.cs",
+              "RelativeToolTip": "YemekSiparis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:28:14.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
